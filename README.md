@@ -31,4 +31,4 @@ The approach involves utilizing artificial intelligence to monitor soil moisture
 ## Authors
 This project has been proposed and prepared by the team **Technoholics**.
 
-
+## Special thanks to our contributors
